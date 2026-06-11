@@ -1,1 +1,1 @@
-# sistemas-prompt-contenidos-youtube
+# Prompts en cadena de Creación de Contenidos (Gemini)
